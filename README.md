@@ -130,7 +130,24 @@ Execution completed at: 2024-03-15 10:30:05
 
 ## Actual Output Samples
 
-For actual program outputs with screenshots for different grid sizes, please see [Actual Outputs](actual_output.md).
+Here's a quick preview of the program outputs:
+
+<table>
+<tr>
+<td><b>4x4 Grid</b></td>
+<td><b>5x5 Grid</b></td>
+</tr>
+<tr>
+<td>
+<img src="output/ouput_scr-1.png" width="200" alt="4x4 Grid Output">
+</td>
+<td>
+<img src="output/ouput_scr-2.png" width="200" alt="5x5 Grid Output">
+</td>
+</tr>
+</table>
+
+For more detailed outputs and additional screenshots, please see [Actual Outputs](actual_output.md).
 
 ## Convergence
 
