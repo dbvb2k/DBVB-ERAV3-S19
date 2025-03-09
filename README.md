@@ -43,7 +43,11 @@ pip install numpy colorama
 .
 ├── README.md
 ├── actual_output.md
-└── value_iteration.py
+├── value_iteration.py
+└── output/
+    ├── ouput_scr-1.png    # 4x4 grid output
+    ├── ouput_scr-2.png    # 5x5 grid initial iterations
+    └── ouput_scr-3.png    # 5x5 grid final convergence
 ```
 
 ## Implementation Details
