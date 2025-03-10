@@ -134,7 +134,7 @@ Execution completed at: 2024-03-15 10:30:05
 
 ## Actual Output Samples
 
-Here's a quick preview of the program outputs:
+Here's a quick preview of the program outputs (click on images for detailed information):
 
 <table>
 <tr>
@@ -143,10 +143,14 @@ Here's a quick preview of the program outputs:
 </tr>
 <tr>
 <td>
+<a href="actual_output.md">
 <img src="output/ouput_scr-1.png" width="200" alt="4x4 Grid Output">
+</a>
 </td>
 <td>
+<a href="actual_output.md">
 <img src="output/ouput_scr-2.png" width="200" alt="5x5 Grid Output">
+</a>
 </td>
 </tr>
 </table>
@@ -163,7 +167,7 @@ The final values show:
 - The terminal state (bottom-right) has value 0
 - States further from the goal have more negative values
 - Values represent the expected cumulative reward to reach the goal
-- The top-left state has the most negative value as it's furthest from the goal
+- The top-left state has the most negative value as it's farthest from the goal
 
 ## Contributing
 
