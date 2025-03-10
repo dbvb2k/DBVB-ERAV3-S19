@@ -148,7 +148,7 @@ Here's a quick preview of the program outputs (click on images for detailed info
 </a>
 </td>
 <td>
-<a href="actual_output.md">
+<a href="actual_output.md#grid5x5">
 <img src="output/ouput_scr-2.png" width="200" alt="5x5 Grid Output">
 </a>
 </td>
